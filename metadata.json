@@ -1,0 +1,9 @@
+
+{
+  "name": "Student AI Expense Classifier",
+  "description": "A professional dark-mode expense tracker that uses Gemini AI to automatically classify bank SMS alerts and map spending hotspots.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
