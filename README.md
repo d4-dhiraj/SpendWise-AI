@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# SpendWise-AI
+
 
 
 ## Run Locally
@@ -12,5 +13,5 @@
 3. Run the app:
    `npm run dev`
 =======
-# SpendWise-AI
->>>>>>>
+
+
